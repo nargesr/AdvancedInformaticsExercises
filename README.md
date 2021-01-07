@@ -1,5 +1,9 @@
 # Advanced Informatics, Winter 2021
 
+## About me
+
+I'm [Narges Rezaie](https://hpc.oit.uci.edu/~nargesr/).
+
 ## Lab exercises
 
 ### Week 1
