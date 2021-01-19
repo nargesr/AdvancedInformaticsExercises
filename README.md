@@ -14,3 +14,8 @@ For this week:
    The repo name will be `AdvancedInformaticsExercises`.
 2. The `README.md` file will be the landing point for a website.
 3. Submit a pull request that adds some random text somewhere in the `README`.
+
+### Week 2
+
+## R Markdown exercises
+Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown).
