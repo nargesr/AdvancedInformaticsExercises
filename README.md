@@ -19,3 +19,8 @@ For this week:
 
 ## R Markdown exercises
 Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown).
+
+
+### Week 3
+
+Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown). use week3.Rmd and week3.html to see my answers!
