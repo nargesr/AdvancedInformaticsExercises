@@ -24,3 +24,8 @@ Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercise
 ### Week 3
 
 Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown). use week3.Rmd and week3.html to see my answers!
+
+
+### Week 4
+
+Link to [sankemake repo](https://github.com/nargesr/AdvancedInformaticsExercises_snakemake/tree/main). use README.Rmd to see my answers!
