@@ -6,7 +6,7 @@ I'm [Narges Rezaie](https://hpc.oit.uci.edu/~nargesr/).
 
 ## Lab exercises
 
-### Week 1
+## Week 1
 
 For this week:
 
@@ -15,17 +15,20 @@ For this week:
 2. The `README.md` file will be the landing point for a website.
 3. Submit a pull request that adds some random text somewhere in the `README`.
 
-### Week 2
+## Week 2
 
-## R Markdown exercises
+### R Markdown exercises
 Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown).
 
 
-### Week 3
+## Week 3
 
 Link to [R markdown repo](https://github.com/nargesr/AdvancedInformaticsExercises_Rmarkdown). use week3.Rmd and week3.html to see my answers!
 
-
-### Week 4
+## Week 4
 
 Link to [sankemake repo](https://github.com/nargesr/AdvancedInformaticsExercises_snakemake/tree/main). use README.Rmd to see my answers!
+
+## Week 5
+
+Link to [ploting repo](https://github.com/nargesr/AdvancedInformaticsExercises_week5). use README.Rmd to see my answers!
