@@ -32,3 +32,7 @@ Link to [sankemake repo](https://github.com/nargesr/AdvancedInformaticsExercises
 ## Week 5
 
 Link to [ploting repo](https://github.com/nargesr/AdvancedInformaticsExercises_week5). use README.Rmd to see my answers!
+
+## Week 6
+
+Link to [data organization repo](https://github.com/nargesr/AdvancedInformaticsExercises_week6). use README.Rmd to see my answers!
