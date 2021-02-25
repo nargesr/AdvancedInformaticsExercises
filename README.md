@@ -35,4 +35,8 @@ Link to [ploting repo](https://github.com/nargesr/AdvancedInformaticsExercises_w
 
 ## Week 6
 
-Link to [data organization repo](https://github.com/nargesr/AdvancedInformaticsExercises_week6). use README.Rmd to see my answers!
+Link to [data organization repo](https://github.com/nargesr/AdvancedInformaticsExercisesPiplineAnalyses). use README.Rmd to see my answers!
+
+## Week k
+
+Link to [data alignment repo](https://github.com/nargesr/AdvancedInformaticsExercisesPiplineAnalyses). use README.Rmd to see my answers!
